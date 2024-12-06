@@ -15,4 +15,12 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
