@@ -11,6 +11,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -27,5 +28,10 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [1250-longest-common-subsequence](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1250-longest-common-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
