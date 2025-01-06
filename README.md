@@ -39,4 +39,16 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0319-bulb-switcher) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
