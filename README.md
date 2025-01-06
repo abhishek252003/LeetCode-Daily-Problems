@@ -12,6 +12,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
+| [0319-bulb-switcher](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0319-bulb-switcher) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,8 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
