@@ -20,10 +20,12 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1250-longest-common-subsequence) |
 ## String
@@ -51,4 +53,8 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
