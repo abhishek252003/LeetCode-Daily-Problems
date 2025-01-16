@@ -22,6 +22,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | ------- |
 | [0001-two-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0136-single-number) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,8 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
