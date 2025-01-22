@@ -26,6 +26,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | [0137-single-number-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | [0001-two-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -72,8 +74,13 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
