@@ -41,6 +41,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 | [1250-longest-common-subsequence](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -59,14 +60,17 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,4 +100,8 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
