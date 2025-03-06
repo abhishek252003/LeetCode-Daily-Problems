@@ -26,6 +26,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | [0137-single-number-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
 | [0219-contains-duplicate-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1755-defuse-the-bomb](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1755-defuse-the-bomb) |
@@ -79,6 +80,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1755-defuse-the-bomb](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1755-defuse-the-bomb) |
