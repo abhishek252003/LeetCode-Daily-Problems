@@ -24,6 +24,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | [0053-maximum-subarray](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0137-single-number-ii) |
+| [0219-contains-duplicate-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -44,6 +45,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | ------- |
 | [0001-two-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0242-valid-anagram) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -75,6 +77,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
 ## Prefix Sum
