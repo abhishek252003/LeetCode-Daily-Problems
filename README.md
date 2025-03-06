@@ -28,6 +28,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | [0416-partition-equal-subset-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1755-defuse-the-bomb](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1755-defuse-the-bomb) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ LeetCode Daily Problems provide an excellent opportunity to enhance problem-solv
 | [0219-contains-duplicate-ii](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1755-defuse-the-bomb](https://github.com/abhishek252003/LeetCode-Daily-Problems/tree/master/1755-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
